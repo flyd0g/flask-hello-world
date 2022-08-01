@@ -1,0 +1,8 @@
+# ignore .git and .cache folder
+.git
+.cache
+
+# ignore dockerfile
+Dockerfile
+dockerfile-*
+dockerfile-*/*
